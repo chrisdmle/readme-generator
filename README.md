@@ -16,9 +16,10 @@ To install, either clone the repository or download it as a zip file. Once on yo
 After installation, you can run: "node index.js" in the terminal. Answer the prompted questions and afterwards a new .md file will be created with your inputs.
 
 See example GIF below:
+<br>
 ![Untitled_ Jul 19, 2022 4_46 PM (1)](https://user-images.githubusercontent.com/107082980/179868212-ea66641d-b87e-4808-aeb4-c399bcdeef27.gif)
 
-See the full example video below:
+See the full example video at this link:
 [Untitled_ Jul 19, 2022 4_46 PM.webm](https://user-images.githubusercontent.com/107082980/179867751-1b2b8fba-b0ee-439e-8d85-2adb9cfd5c3b.webm)
 
    
